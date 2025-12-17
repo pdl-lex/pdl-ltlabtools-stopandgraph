@@ -14,6 +14,12 @@ Hinweis: Dieses Tool befindet sich im Experiemtier-Stadium. Von einem Produktiv-
 - **Download-Funktionen**: Exportieren Sie Ihre Stopword-Liste oder den bereinigten Text
 - **Platzhalter-Optionen**: Verschiedene Darstellungsoptionen für ausgeblendete Wörter
 
+## Screenshots
+
+![Stopword selection](/screenshot1.png "Visueller Wortausschluss") 
+
+![Graph generation](/screenshot2.png "Darstellung als Graph") 
+
 ## Installation
 
 ```bash
