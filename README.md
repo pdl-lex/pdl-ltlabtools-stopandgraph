@@ -1,6 +1,8 @@
 # Visueller Wortausschluss / Visual Word Exclusion
 
 Ein interaktives Web-Tool zum visuellen Identifizieren und Verwalten von Stopwords in Texten.
+Hinweis: Dieses Tool befindet sich im Experiemtier-Stadium. Von einem Produktiv-Einsatz wird abgeraten. Ein einwandfreies Funktionieren ist nicht sichergestellt.
+
 
 ## Features
 
@@ -57,19 +59,13 @@ src/
 └── App.tsx             # Haupt-App-Komponente
 ```
 
-## Farbschema
-
-- Evergreen (Hauptfarbe): #003835
-- Spring Leaves: #006844
-- Light Mint: #b7c8c1
-
 ## Geplante Erweiterungen
 
 - Weitere Dateiformate (DOCX, PDF, XML, CoNLL)
 - Lemmatisierung / Flexionsformen
+- Named Entity Recognition zur gezielten Anwahl von Personen, Orten, etc.
 - Korpus-Auswahl aus vordefinierten Quellen
-- Import/Export von Stopword-Listen
 
 ## Lizenz
-
-MIT
+CC-BY-NC-SA
+Urheber: Wolfgang Huang, Bayerische Akademie der Wissenschaften
