@@ -1,0 +1,7 @@
+# wird benötigt hier weil react-app; anders als reflex-app.
+:80 {
+    root * /srv
+    encode gzip
+    try_files {path} /index.html
+    file_server
+}
